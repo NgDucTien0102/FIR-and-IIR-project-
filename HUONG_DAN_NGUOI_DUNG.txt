@@ -1,0 +1,19 @@
+BỘ LỌC SỐ FIR / IIR — BẢN WINDOWS
+
+1. Giải nén toàn bộ FIR_IIR_Windows.zip.
+2. Mở thư mục FIR_IIR_App rồi nhấp đúp FIR_IIR_App.exe.
+3. Không cần cài Python. Giữ nguyên thư mục _internal và các tệp đi kèm.
+
+SỬ DỤNG
+
+- Tín hiệu: nhập tần số lấy mẫu, số mẫu, tần số và biên độ; chọn nhiễu.
+- Bộ lọc: chọn FIR, IIR hoặc cả hai; đặt tần số cắt, số hệ số/bậc.
+- Nhấn Chạy mô phỏng để xem kết quả.
+- Đang xem / Đồ thị: chọn đồ thị và các đường cần hiển thị.
+- Phát, Tạm dừng, +1 mẫu, thanh trượt: quan sát theo chỉ số mẫu n.
+- Xem toàn bộ: hiển thị cả dãy mẫu.
+- Xuất CSV: lưu đầy đủ dữ liệu. Lưu hình: lưu đồ thị đang xem.
+- F11: toàn màn hình. Esc: thoát toàn màn hình. F5: chạy mô phỏng.
+- Nút Hướng dẫn sử dụng trong app có phần giải thích chi tiết.
+
+Tốc độ phát độc lập với tần số lấy mẫu. Các bộ lọc hiện có là thông thấp.
